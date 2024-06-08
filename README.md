@@ -1,4 +1,4 @@
-# Give-Life-Pridict-Blood-Donations
+# Give-Life-Predict-Blood-Donations
 
 Project Description:
 
