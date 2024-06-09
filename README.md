@@ -55,6 +55,10 @@ Summarize your findings and the performance of the model. Discuss any challenges
 
 By following these steps, you'll be able to predict blood donations effectively, leveraging automation tools like TPOT to optimize your machine learning pipeline. This project not only helps in understanding the data and modeling process but also contributes to solving a real-world problem of forecasting blood supply.
 
+Logistic regression:
+
+Logistic regression is a statistical method used for binary classification that models the probability of a binary outcome based on one or more predictor variables. It predicts the likelihood of a particular class or event, such as yes/no, true/false, or 0/1 outcomes. The model uses a logistic function to map predicted values to probabilities, ensuring they fall between 0 and 1. Logistic regression is widely used in fields like medicine, finance, and social sciences for tasks such as disease prediction, credit scoring, and risk assessment.
+
 
 Forecasting blood supply is a serious and recurrent problem for blood collection managers: in January 2019, "Nationwide, the Red Cross saw 27,000 fewer blood donations over the holidays than they see at other times of the year." Machine learning can be used to learn the patterns in the data to help to predict future blood donations and therefore save more lives.
 
